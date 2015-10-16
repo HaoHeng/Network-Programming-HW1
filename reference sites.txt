@@ -1,0 +1,7 @@
+http://code.runnable.com/VBiUCRpPOs5cbBr4/simple-socket-io-chat-for-node-js-and-hello-world
+
+http://www.tutorialspoint.com/python/python_networking.htm
+
+https://docs.python.org/2/howto/sockets.html
+
+http://danielnill.com/nodejs-tutorial-with-socketio/
